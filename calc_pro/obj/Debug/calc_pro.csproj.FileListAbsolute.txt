@@ -1,0 +1,10 @@
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\bin\Debug\Calculator Pro.exe.config
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\bin\Debug\Calculator Pro.exe
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\bin\Debug\Calculator Pro.pdb
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.csprojAssemblyReference.cache
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.Form1.resources
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.Properties.Resources.resources
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.csproj.GenerateResource.cache
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.csproj.CoreCompileInputs.cache
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\obj\Debug\Calculator Pro.exe
+E:\Hidden Genius Project\repos\calc_pro_ns\calc_pro\obj\Debug\Calculator Pro.pdb
